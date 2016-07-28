@@ -1,0 +1,110 @@
+header {
+	background-color: #F2F2F2;
+}
+
+h4, input {
+	padding-top: 5px;
+
+}
+
+
+img {
+	width: 100%;
+	height: 100%;
+}
+.imgBanner {
+
+	width: 1800px;
+}
+.imgIcono {
+	width: 100px;
+	margin-top: 90%;
+}
+
+
+.galMedida{
+
+	width: 180px;
+	height: 170px;
+	
+}
+
+.galGran {
+	width: 300px;
+	height: 290px;
+	text-align: center;
+	
+
+}
+
+.inform{
+	position: absolute;
+	left: 50%;
+	top: 30%;
+	width: 30%;
+
+}
+/*texto*/
+
+/*fondo de imagenes amarillo*/
+.fondoAm {
+
+	background-color: #FACC2E;
+	padding: 30px 40px;
+}
+/*botones*/
+.botonGre {
+	border: #00FF00 solid;
+	border-radius: 50px;
+	color: #00FF00; 
+	width: 30%;
+	height: 30%;
+}
+.botonWatch {
+	background-color: #F7FE2E;
+	border-radius: 20px;
+	color: #FFFFFF;
+	font-size: 90%;
+	width: 50%;
+	height: 50%; 
+	padding: 10px;
+
+}
+.botonBook {
+	background-color: #FFBF00;
+	border-radius: 20px;
+	color: #FFFFFF; 
+	font-size: 90%;
+	width: 30%;
+	height: 50%;
+	padding: 10px;
+
+}
+.botonTicket{
+	background-color: #DF7401;
+	border-radius: 5px;
+	width: 30%;
+	height: 60%;
+	color: #FFFFFF;
+	padding: 15px;
+	text-align: center;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+footer {
+	 background-color: #D8D8D8;
+	 padding: 15px;
+	 color: #848484;
+}
+
+
+/*acomodo de las row*/
+
+.space {
+	margin: 25px 0px;
+
+}
